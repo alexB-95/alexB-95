@@ -1,5 +1,5 @@
 ### Hello.
-I'm Alex. I like analyizing data using Python as well as dabbling in whatever I find interesting.
+I'm Alex. I have a degree in Astrophysics and like analyzing data using Python as well as dabbling in whatever I find interesting.
 
 <!--
 **alexB-95/alexB-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
