@@ -1,6 +1,10 @@
 ### Hello.
 I'm Alex. I have a degree in Astrophysics and like analyzing data using Python as well as dabbling in whatever I find interesting.
 
+[![Visits Badge](https://badges.pufler.dev/visits/alexB-95/alexB-95)](https:alexB-95.dev)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abastian95/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexB-95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **alexB-95/alexB-95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-[![Visits Badge](https://badges.pufler.dev/visits/alexB-95/alexB-95)](https:alexB-95.dev)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/alexander-bastian-31968621a/)
 
 -->
